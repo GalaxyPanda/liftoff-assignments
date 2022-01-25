@@ -8,10 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- ![User login Page](C:\Users\Mocha\LaunchCode_Projects\LiftOff\P3-Project_Planning\Wireframes\User_login.png)
-- ![User Registration](C:\Users\Mocha\LaunchCode_Projects\LiftOff\P3-Project_Planning\Wireframes\User_Registeration.png)
-- ![Owner login ](C:\Users\Mocha\LaunchCode_Projects\LiftOff\P3-Project_Planning\Wireframes\Owner_login.png)
-- ![Owner Registration ](C:\Users\Mocha\LaunchCode_Projects\LiftOff\P3-Project_Planning\Wireframes\Owner_Registeration.png)
+- ![User login Page](Wireframes/User_login.png)
+- ![User Registration](Wireframes/User_Registeration.png)
+- ![Owner login ](Wireframes/Owner_login.png)
+- ![Owner Registration ](Wireframes/User_Registeration.png)
 ### Project Tracker
 
 https://trello.com/b/mK5d9w9x/cat-cafe-hub-app
